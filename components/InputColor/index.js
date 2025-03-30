@@ -1,0 +1,3 @@
+//add inputColor
+// finish
+//colses
